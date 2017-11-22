@@ -8,3 +8,5 @@ npm install
 run-ios or run-android
 
 ```
+
+#Only when reset, save button does not work.
